@@ -11,11 +11,10 @@ Aşağıda listelenen modellerin her birini çalıştırmanız gerekmektedir:
 
 **Adımlar:**
 
-1. **Model Dosyalarının Hazırlanması:**
-   Her model için eğitimli ağırlık dosyalarını (`.pth`) ilgili klasörlere yerleştirin. (Dizinlere dokunmassaniz oldugu hali ile calisiyor olmali.)
 
-2. **Modeli Çalıştırma:**
-   Her bir modelin çalıştırılması için ilgili Python betiğini (`.py` dosyası) çalıştırın. Örneğin:
+### **1. **Modeli Çalıştırma:**
+   Her bir modelin çalıştırılması için ilgili Python betiğini (`.py` dosyası) çalıştırın. (Dizinlere dokunmassaniz oldugu hali ile calisiyor olmali.)
+   Örneğin:
 
    python clip_city_classifier.py
    python convnext_city_classifier.py

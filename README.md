@@ -45,8 +45,8 @@ Modeller çalıştırıldıktan sonra, her model icin test yapip, tahmin sonuçl
    Her klasörde bulunan dönüşüm betiklerini (örneğin, `convnext_test_to_csv.py`) çalıştırarak testleri yapin ve tahmin sonuçlarını CSV formatına dönüştürün. 
    (Her bir model icin yapmaniz gerekmektedir)
 
-   cd test_to_csv/convnext_test_to_csv
-   python convert_to_csv.py
+   cd test_to_csv/convnext_test_to_csv (Hem testleri yapip hemde csv ye donusturuyor)
+   
    
    # Diğer klasörler için de aynı işlemi tekrarlayın
 
